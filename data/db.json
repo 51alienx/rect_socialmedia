@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "My First ",
+      "datetime": "December 20,2023,Dec 20, 2023",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "December 20,2023,Dec 20, 2023",
+      "body": "Web3 global summit next week"
+    }
+  ]
+}
